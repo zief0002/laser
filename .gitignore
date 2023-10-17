@@ -1,0 +1,16 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.RDataTmp
+
+
+
+# RStudio files
+.Rproj.user/
+.Rproj
+
+
+/.quarto/
