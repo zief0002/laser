@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "LaSER Lab"
+  title: "title of webpage"
   navbar:
     left:
       - href: index.qmd

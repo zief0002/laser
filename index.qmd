@@ -1,5 +1,5 @@
 ---
-title: "Iggy"
+title: "LaSER Lab"
 about:
   # Templates include: jolla, trestles, solana, marquee, or broadside
   # https://quarto.org/docs/websites/website-about.html
